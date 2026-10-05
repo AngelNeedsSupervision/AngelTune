@@ -1,0 +1,14 @@
+AngelTune - Copyright Notice
+
+Copyright (c) 2026 Angel.
+All rights reserved.
+
+No open-source license has been selected for AngelTune at this time.
+
+The source code may be made publicly viewable for transparency, but this notice
+does not grant permission to redistribute, modify, repackage, sell, or publish
+derivative versions of AngelTune without permission from the copyright holder.
+
+Tower Unite and related trademarks/assets belong to their respective owners.
+
+AngelTune is not affiliated with PixelTail Games, Valve, or Steam.
